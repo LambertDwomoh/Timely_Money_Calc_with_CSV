@@ -5,4 +5,4 @@ you need to enter the Start time and End Time and Date in 24 Hr format i.e dd/mm
 Create a Csv File(Manually) with the attributes Start Time	End Time	Hours_Spent	Rate	Money Earned
 Save close the file
 
-Other Options are provided in the csv file
+Other Options are provided in the Source code file
